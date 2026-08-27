@@ -1,6 +1,6 @@
 # 🧑‍💻Igor Micael Blemer
 
-**`Desenvolvedora Júnior`**
+**`Desenvolvedor Júnior`**
 
 Estudante de Engenharia de Software com foco em desenvolvimento back-end. Possuo experiência com lógica de programação, desenvolvimento web e projetos acadêmicos. Busco minha primeira oportunidade na área de tecnologia para desenvolver minhas habilidades práticas e crescer profissionalmente.
 
